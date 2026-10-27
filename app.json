@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "My Money Tracker",
+    "slug": "my-money-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#1B9E4B" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.example.moneytracker" },
+    "android": {
+      "package": "com.example.moneytracker",
+      "adaptiveIcon": { "backgroundColor": "#1B9E4B" }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "my-money-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "setup": "expo install react react-native expo-status-bar expo-linear-gradient @expo/vector-icons @react-native-async-storage/async-storage react-native-safe-area-context expo-crypto"
+  },
+  "dependencies": {
+    "expo": "^57.0.0"
+  },
+  "private": true
+}
